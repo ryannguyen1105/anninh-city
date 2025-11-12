@@ -1,3 +1,5 @@
+import "./App.css";
+
 import {
   Card,
   Carousel,
@@ -20,54 +22,43 @@ import { FaMapLocationDot } from "react-icons/fa6";
 import { Layout } from "antd";
 import React from "react";
 
-const headerStyle: React.CSSProperties = {
-  textAlign: "center",
-  color: "#fff",
-  height: 64,
-  fontSize: 22,
-  paddingInline: 48,
-  lineHeight: "64px",
-  backgroundColor: "#cab34f",
-};
-
 const { Header, Footer, Content } = Layout;
 
 const { Text, Title, Paragraph } = Typography;
 
 export const App = () => {
   return (
-    <Layout
-      style={{ minHeight: "100vh", display: "flex", flexDirection: "column" }}
-    >
-      <Header style={headerStyle}>
-        <Space>
+    <Layout className="layout-container">
+      <Header className="header-style">
+        <Space align="start">
           <img src="/favicon.png" alt="logo" width="60" />
           AN NINH CITY
         </Space>
       </Header>
-      <Content style={{ flex: 1 }}>
-        <FloatButton icon={<PhoneOutlined />} type="primary" href="tel:0909773302" description="Call">
-        </FloatButton>
+      <Content className="content-container">
+        <FloatButton
+          icon={<PhoneOutlined />}
+          type="primary"
+          href="tel:0909773302"
+          description="Call"
+        ></FloatButton>
         <Carousel
           autoplay={{ dotDuration: true }}
           autoplaySpeed={4000}
           dots
           draggable
           arrows
-          style={{
-            maxWidth: 1500,
-            width: "100%",
-            textAlign: "center",
-            margin: "auto",
-          }}
+          className="carousel-style"
         >
           <Card cover={<img src="/images/1.png" alt="welcome 1" />}></Card>
           <Card cover={<img src="/images/2.png" alt="welcome 2" />}></Card>
           <Card cover={<img src="/images/3.png" alt="welcome 3" />}></Card>
         </Carousel>
-        <Typography>
-          <Title level={3} style={{ textAlign: "center" }}>GIỚI THIỆU CÔNG TY TNHH BẢO VỆ AN NINH CITY</Title>
-          <Paragraph>
+        <Typography className="typography-section">
+          <Title level={3} className="title-center">
+            GIỚI THIỆU CÔNG TY TNHH BẢO VỆ AN NINH CITY
+          </Title>
+          <Paragraph className="paragraph-style">
             Công ty Bảo vệ An Ninh City được sáng lập do các nhà lãnh đạo từng
             là các cựu chiến sĩ trong quân đội – công an, có nhiều năm kinh
             nghiệm trong lĩnh vực bảo vệ an ninh. An Ninh City tự hào là một
@@ -78,17 +69,17 @@ export const App = () => {
             tín và chuyên nghiệp hiện nay.
             <img
               src="/images/BAOVE.png"
-              alt="welcome 1"
-              // style={{ maxWidth: 1000 }}
+              alt="Công ty bảo vệ uy tín, #1 trong lĩnh vực bảo vệ an ninh"
+              className="centered-image"
             />
           </Paragraph>
         </Typography>
         <Divider />
-        <Typography>
-          <Title level={3} style={{ textAlign: "center" }}>
+        <Typography className="typography-section">
+          <Title level={3} className="title-center">
             Vì sao nên chọn Dịch vụ Bảo vệ tại Công ty An Ninh City
           </Title>
-          <Paragraph>
+          <Paragraph className="paragraph-style">
             Để đạt được thành tích nhiều năm liền trong quá trình hoạt động,
             Công ty bảo vệ An Ninh City luôn tự tin mang đến cho quý khách hàng:
             <ul>
@@ -115,11 +106,11 @@ export const App = () => {
           </Paragraph>
         </Typography>
         <Divider />
-        <Typography>
-          <Title level={3} style={{ textAlign: "center" }}>
+        <Typography className="typography-section">
+          <Title level={3} className="title-center">
             3 lợi ích chính khi sử dụng dịch vụ bảo vệ An Ninh City
           </Title>
-          <Paragraph>
+          <Paragraph className="paragraph-style">
             Để đạt được thành tích nhiều năm liền trong quá trình hoạt động,
             Công ty bảo vệ An Ninh City luôn tự tin mang đến cho quý khách hàng:
             <ul>
@@ -148,12 +139,7 @@ export const App = () => {
           </Paragraph>
         </Typography>
       </Content>
-      <Footer
-        style={{
-          backgroundColor: "#cab34f",
-          color: "#fff",
-        }}
-      >
+      <Footer className="footer-style">
         <Row gutter={16}>
           <Col span={12}>
             <Space direction="vertical">
@@ -175,24 +161,21 @@ export const App = () => {
             <Space direction="vertical">
               <Space>
                 <PhoneOutlined />
-                <Text
-                  style={{ color: "#fff" }}
-                  copyable={{ text: "0909773302" }}
-                >
+                <Text className="footer-text" copyable={{ text: "0909773302" }}>
                   Hotline: 0909 7733 02
                 </Text>
               </Space>
               <Space>
                 <MailOutlined />
-                <Text style={{ color: "#fff" }} copyable>
+                <Text className="footer-text" copyable>
                   baove.anninhcity@gmail.com
                 </Text>
               </Space>
             </Space>
           </Col>
-          <Col span={24} style={{ textAlign: "center" }}>
-            An ninh city ©{new Date().getFullYear()} Made with ❤ by An ninh
-            city development team
+          <Col span={24} className="footer-center">
+            An ninh city ©{new Date().getFullYear()} Made with ❤ by An ninh city
+            development team
           </Col>
         </Row>
       </Footer>

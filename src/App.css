@@ -1,0 +1,59 @@
+.layout-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.header-style {
+  text-align: center;
+  color: #fff;
+  height: 64px;
+  font-size: 22px;
+  padding-inline: 48px;
+  line-height: 64px;
+  background-color: #cab34f;
+}
+
+.content-container {
+  flex: 1;
+}
+
+.carousel-style {
+  max-width: 1500px;
+  width: 100%;
+  text-align: center;
+  margin: auto;
+}
+
+.typography-section {
+  margin: 12px;
+}
+
+.paragraph-style {
+  font-size: 18px;
+  margin: 12px;
+}
+
+.title-center {
+  text-align: center;
+}
+
+.centered-image {
+  max-width: 1000px;
+  width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+.footer-style {
+  background-color: #cab34f;
+  color: #fff;
+}
+
+.footer-text {
+  color: #fff;
+}
+
+.footer-center {
+  text-align: center;
+}
