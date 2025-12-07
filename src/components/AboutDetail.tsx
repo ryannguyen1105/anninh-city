@@ -1,5 +1,3 @@
-// src/components/AboutDetail.tsx
-
 import React from 'react';
 import './AboutDetail.css';
 

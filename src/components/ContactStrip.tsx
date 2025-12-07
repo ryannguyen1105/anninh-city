@@ -1,5 +1,3 @@
-// src/components/ContactStrip.tsx
-
 import React from 'react';
 import './ContactStrip.css';
 

@@ -1,5 +1,3 @@
-// src/pages/Contact.tsx
-
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
 import './Contact.css'; 

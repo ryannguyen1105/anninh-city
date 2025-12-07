@@ -1,5 +1,3 @@
-// src/components/Services.tsx
-
 import React from 'react';
 import './Services.css';
 

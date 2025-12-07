@@ -1,5 +1,3 @@
-// src/pages/Blog.tsx
-
 import React, { useState, useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import './Blog.css'; 

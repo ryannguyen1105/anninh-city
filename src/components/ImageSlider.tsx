@@ -1,5 +1,3 @@
-// src/components/ImageSlider.tsx
-
 import React, { useState, useEffect } from 'react';
 import './ImageSlider.css'; 
 const sliderImages = [

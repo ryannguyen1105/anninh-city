@@ -2,6 +2,7 @@
 
 import React, { useState } from 'react';
 import './Header.css'; 
+import { Link } from 'react-router-dom';
 
 const Header: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -27,9 +28,9 @@ const Header: React.FC = () => {
         </a>
         <nav className="nav-menu desktop-menu">
           {navItems.map((item) => (
-            <a key={item.name} href={item.href} className="nav-item">
+            <Link key={item.name} to={item.href} className="nav-item">
               {item.name}
-            </a>
+            </Link>
           ))}
         </nav>
         <div className="header-actions">
@@ -47,9 +48,9 @@ const Header: React.FC = () => {
       {isOpen && (
         <nav className="nav-menu mobile-menu">
           {navItems.map((item) => (
-            <a key={item.name} href={item.href} className="nav-item-mobile" onClick={() => setIsOpen(false)}>
+            <Link key={item.name} to={item.href} className="nav-item-mobile" onClick={() => setIsOpen(false)}>
               {item.name}
-            </a>
+            </Link>
           ))}
           <a href={`tel:${HOTLINE}`} className="hotline-button-mobile" onClick={() => setIsOpen(false)}>
             Gọi ngay: {HOTLINE}

@@ -1,7 +1,6 @@
-// src/components/Footer.tsx (Đã sửa lỗi Email link)
-
 import React from 'react';
 import './Footer.css';
+import { Link } from 'react-router-dom';
 
 const Footer: React.FC = () => {
     
@@ -41,11 +40,11 @@ const Footer: React.FC = () => {
                 <div className="footer-col quick-links">
                     <h4>Liên kết Nhanh</h4>
                     <ul>
-                        <li><a href="/">Trang chủ</a></li>
-                        <li><a href="/about">Về chúng tôi</a></li>
-                        <li><a href="/services">Dịch vụ</a></li>
-                        <li><a href="/blog">Tin tức</a></li>
-                        <li><a href="/contact">Liên hệ</a></li>
+                        <li><Link to="/">Trang chủ</Link></li>
+                        <li><Link to="/about">Về chúng tôi</Link></li>
+                        <li><Link to="/services">Dịch vụ</Link></li>
+                        <li><Link to="/blog">Tin tức</Link></li>
+                        <li><Link to="/contact">Liên hệ</Link></li>
                     </ul>
                 </div>
                 <div className="footer-col contact-details">
