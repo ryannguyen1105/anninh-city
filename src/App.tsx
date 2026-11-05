@@ -4,6 +4,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Header from './components/Header'; 
 import Footer from './components/Footer'; 
+import FloatingContact from './components/FloatingContact'; // 1. Import component nút liên hệ
 import Home from './pages/Home';           
 import About from './pages/About';         
 import Services from './pages/Services';   
@@ -11,7 +12,6 @@ import Contact from './pages/Contact';
 import Blog from './pages/Blog';           
 import BlogDetail from './pages/BlogDetail'; 
 import ServiceDetail from './pages/ServiceDetail'; 
-
 
 function App() {
   return (
@@ -33,6 +33,9 @@ function App() {
         </main>
 
         <Footer /> 
+
+        {/* 2. Đặt FloatingContact ở đây để hiển thị cố định xuyên suốt toàn bộ website */}
+        <FloatingContact />
       </div>
     </Router>
   );

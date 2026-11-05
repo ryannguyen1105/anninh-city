@@ -32,7 +32,7 @@ const Header = () => {
       <div className="header-container">
         <a href="/" className="logo-link">
           <img 
-            src="/logo.png" 
+            src="/favicon.png" 
             alt="Anninh Khải Phong Logo" 
             className="site-logo" 
           />

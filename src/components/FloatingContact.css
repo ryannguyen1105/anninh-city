@@ -1,0 +1,85 @@
+.floating-contact {
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-end;
+}
+
+/* Style chung cho các nút */
+.contact-icon {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  transition: transform 0.3s ease;
+}
+
+.contact-icon:hover {
+  transform: scale(1.05);
+}
+
+/* Nút Zalo */
+.zalo-icon {
+  width: 50px;
+  height: 50px;
+  background-color: #0068ff;
+  border-radius: 50%;
+  color: #fff;
+  font-weight: bold;
+  justify-content: center;
+  box-shadow: 0 4px 10px rgba(0, 104, 255, 0.4);
+  font-size: 14px;
+}
+
+/* Nút Hotline / Gọi điện */
+.phone-icon {
+  background: linear-gradient(135deg, #f39c12, #e67e22);
+  border-radius: 30px;
+  padding: 4px 4px 4px 15px;
+  box-shadow: 0 4px 15px rgba(230, 126, 34, 0.4);
+  color: #fff;
+}
+
+.hotline-badge {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-right: 10px;
+}
+
+.hotline-title {
+  font-size: 11px;
+  text-transform: uppercase;
+  font-weight: 600;
+  opacity: 0.9;
+}
+
+.hotline-number {
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+
+.phone-circle {
+  width: 42px;
+  height: 42px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #e67e22;
+  font-size: 18px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  animation: pulse 1.5s infinite;
+}
+
+/* Hiệu ứng nhấp nháy thu hút cho icon gọi */
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
+}
