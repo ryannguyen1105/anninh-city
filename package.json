@@ -1,8 +1,8 @@
 {
-  "name": "anninh-city",
+  "name": "anninh-khaiphong",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://anninhcity.com",
+  "homepage": "http://baovekhaiphong.com",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
@@ -28,7 +28,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build --cname anninhcity.com"
+    "deploy": "gh-pages -d build --cname baovekhaiphong.com"
   },
   "eslintConfig": {
     "extends": [

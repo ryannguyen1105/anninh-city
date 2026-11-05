@@ -6,7 +6,7 @@ import './About.css';
 const whyChooseUsNew = [
     {
       title: "Tính chuyên nghiệp",
-      content: "Đội ngũ nhân viên bảo vệ được công ty bảo vệ An Ninh City chọn lọc kỹ lưỡng, ưu tiên chọn bộ đội, công an xuất ngũ có kinh nghiệm trong lĩnh vực an ninh. Ngoài ra với +1000 nhân viên bảo vệ ưu tú và hơn 20 chi nhánh trên toàn quốc, chúng tôi tự tin khẳng định vị thế điểm mạnh của mình.",
+      content: "Đội ngũ nhân viên bảo vệ được công ty bảo vệ AN NINH KHẢI PHONG  chọn lọc kỹ lưỡng, ưu tiên chọn bộ đội, công an xuất ngũ có kinh nghiệm trong lĩnh vực an ninh. Ngoài ra với +1000 nhân viên bảo vệ ưu tú và hơn 20 chi nhánh trên toàn quốc, chúng tôi tự tin khẳng định vị thế điểm mạnh của mình.",
       icon: "🎖️" 
     },
     {
@@ -16,7 +16,7 @@ const whyChooseUsNew = [
     },
     {
       title: "Tính linh hoạt",
-      content: "Bảng giá dịch vụ bảo vệ tại Công ty dịch vụ bảo vệ An Ninh City được công khai minh bạch cho khách hàng. Với mức chi phí cạnh tranh trên thị trường từ sơ cấp đến cao cấp đảm bảo đáp ứng được mọi nhu cầu của khách hàng.",
+      content: "Bảng giá dịch vụ bảo vệ tại Công ty dịch vụ bảo vệ AN NINH KHẢI PHONG  được công khai minh bạch cho khách hàng. Với mức chi phí cạnh tranh trên thị trường từ sơ cấp đến cao cấp đảm bảo đáp ứng được mọi nhu cầu của khách hàng.",
       icon: "💡"
     },
 ];
@@ -26,7 +26,7 @@ const About: React.FC = () => {
     <div className="about-page">
       <section className="page-heading-section">
         <div className="container">
-          <h1>CÔNG TY TNHH BẢO VỆ AN NINH CITY</h1>
+          <h1>CÔNG TY TNHH BẢO VỆ AN NINH KHẢI PHONG </h1>
         </div>
       </section>
       <section className="about-main-content centered-content-section"> 
@@ -35,10 +35,10 @@ const About: React.FC = () => {
           <div className="about-text-column centered-column">
             <h2 className="section-title">Về Chúng Tôi</h2>
             <p className="intro-text">
-              Công ty Bảo vệ An Ninh City được sáng lập do các nhà lãnh đạo từng là các cựu chiến sĩ trong quân đội – công an, có nhiều năm kinh nghiệm trong lĩnh vực bảo vệ an ninh. An Ninh City tự hào là một trong những top công ty tiên phong trong lĩnh vực cung cấp các dịch vụ bảo vệ an ninh như: bảo vệ nhà máy – nhà xưởng – khu công nghiệp, tòa nhà – văn phòng công ty, công trình xây dựng, trường học bệnh viện, nhà hàng khách sạn resort,… được nhiều khách hàng đánh giá uy tín và chuyên nghiệp hiện nay.
+              Công ty Bảo vệ AN NINH KHẢI PHONG  được sáng lập do các nhà lãnh đạo từng là các cựu chiến sĩ trong quân đội – công an, có nhiều năm kinh nghiệm trong lĩnh vực bảo vệ an ninh. AN NINH KHẢI PHONG  tự hào là một trong những top công ty tiên phong trong lĩnh vực cung cấp các dịch vụ bảo vệ an ninh như: bảo vệ nhà máy – nhà xưởng – khu công nghiệp, tòa nhà – văn phòng công ty, công trình xây dựng, trường học bệnh viện, nhà hàng khách sạn resort,… được nhiều khách hàng đánh giá uy tín và chuyên nghiệp hiện nay.
             </p>
 
-            <h2 className="section-title services-benefits-title">Lợi ích dịch vụ bảo vệ An Ninh City</h2>
+            <h2 className="section-title services-benefits-title">Lợi ích dịch vụ bảo vệ AN NINH KHẢI PHONG </h2>
             <div className="benefits-grid centered-benefits-grid"> 
               <div className="benefit-item">
                 <span className="bullet-icon">●</span> Đội ngũ bảo vệ kỷ luật
@@ -61,7 +61,7 @@ const About: React.FC = () => {
             </div>
 
             <div className="about-cta-buttons">
-              <a href="tel:0909773302" className="cta-primary-blue">Gọi Ngay</a>
+              <a href="tel:0907 375 377" className="cta-primary-blue">Gọi Ngay</a>
               <a href="/contact" className="cta-secondary-outline">Liên Hệ</a>
             </div>
           </div>
@@ -73,7 +73,7 @@ const About: React.FC = () => {
           <div className="new-value-proposition-grid">
              
             <p className="main-new-statement">
-                Để đạt được thành tích nhiều năm liền trong quá trình hoạt động, Công ty bảo vệ An Ninh City luôn tự tin mang đến cho quý khách hàng:
+                Để đạt được thành tích nhiều năm liền trong quá trình hoạt động, Công ty bảo vệ AN NINH KHẢI PHONG  luôn tự tin mang đến cho quý khách hàng:
             </p>
 
             {whyChooseUsNew.map((item, index) => (

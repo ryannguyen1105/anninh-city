@@ -5,11 +5,11 @@ import { Link } from 'react-router-dom';
 import './Contact.css'; 
 
 const companyInfo = {
-    name: "CÔNG TY BẢO VỆ AN NINH CITY",
-    hotline: "0909.7733.02",
-    email: "baove.anninhcity@gmail.com",
-    address: "38 Cộng Hòa, Phường Tân Sơn Nhất, Quận Tân Bình, TP.HCM",
-    mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3919.143896472445!2d106.6601666!3d10.8000445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529367d301c37%3A0xe5a3a7b744033230!2zMzggQ-G7mW5nIEjDsmEsIFBoxrDhu51uZyBUw6JuIFPGoW4gTmjhuqV0LCBUw6JuIELDrG5oLCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e0!3m2!1svi!2s!4v1638883200000!5m2!1svi!2s" 
+    name: "CÔNG TY BẢO VỆ AN NINH KHẢI PHONG ",
+    hotline: "0907 375 377",
+    email: "anninhkhaiphong@gmail.com",
+    address: "855/18 Quang Trung, Phường An Hội Tây, Tp. Hồ Chí Minh",
+    mapEmbedUrl: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d591.8685946546358!2d106.64101488099807!3d10.843549824727829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175299b3176d05d%3A0xc77424187a4fc9e!2zODU1IFF1YW5nIFRydW5nLCBBbiBI4buZaSBUw6J5LCBI4buTIENow60gTWluaCA3MjAwMDAsIFZp4buHdCBOYW0!5e1!3m2!1svi!2s!4v1793857647435!5m2!1svi!2s" 
 };
 
 const ContactForm: React.FC = () => {
@@ -115,14 +115,14 @@ const Contact: React.FC = () => {
     return (
         <div className="contact-page">
             <div className="container">
-                <h1 className="page-title">LIÊN HỆ VỚI AN NINH CITY</h1>
+                <h1 className="page-title">LIÊN HỆ VỚI AN NINH KHẢI PHONG </h1>
                 
                 <div className="contact-grid">
                     <div className="contact-main">
                         
                         <div className="contact-info-section">
                             <div className="contact-intro">
-                                <h2>An Ninh City luôn sẵn sàng lắng nghe bạn!</h2>
+                                <h2>AN NINH KHẢI PHONG  luôn sẵn sàng lắng nghe bạn!</h2>
                                 <p>
                                     Nếu bạn có bất kỳ thắc mắc, yêu cầu báo giá hay cần tư vấn chuyên sâu về giải pháp an ninh, vui lòng liên hệ ngay với chúng tôi. Đội ngũ chuyên gia của chúng tôi cam kết phản hồi trong vòng **24 giờ**.
                                 </p>
@@ -146,7 +146,7 @@ const Contact: React.FC = () => {
                                     style={{ border: 0 }} 
                                     allowFullScreen={true} 
                                     loading="lazy"
-                                    title="Google Map Vị Trí An Ninh City"
+                                    title="Google Map Vị Trí AN NINH KHẢI PHONG "
                                 />
                             </div>
                         </div>

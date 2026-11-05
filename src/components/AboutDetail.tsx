@@ -21,7 +21,7 @@ const AboutDetail: React.FC = () => {
         </div>
         <div className="about-content-col">
           <span className="subtitle-tag">Về chúng tôi</span>
-          <h2>Lý do khách hàng tin tưởng và lựa chọn Anninh City</h2>
+          <h2>Lý do khách hàng tin tưởng và lựa chọn An Ninh Khải Phong</h2>
           <p>
             Với hơn 10 năm kinh nghiệm trong ngành, chúng tôi không chỉ cung cấp dịch vụ bảo vệ mà còn là đối tác chiến lược, mang đến sự an toàn bền vững và sự yên tâm tuyệt đối cho khách hàng.
           </p>
@@ -33,7 +33,7 @@ const AboutDetail: React.FC = () => {
           </ul>
 
           <a href="/about" className="learn-more-button">
-            Khám phá thêm về Anninh City
+            Khám phá thêm về An Ninh Khải Phong
           </a>
         </div>
       </div>

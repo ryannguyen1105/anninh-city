@@ -5,19 +5,9 @@ import { Link } from 'react-router-dom';
 import './Services.css';
 const allServicesData = [
     { 
-        title: "Bảo Vệ Sân Bay", 
-        description: "Dịch vụ bảo vệ sân bay, đảm bảo an ninh, quy trình nghiêm ngặt.",
-        link: "/services/bao-ve-san-bay" 
-    },
-    { 
         title: "Bảo Vệ Khu Dân Cư", 
         description: "An ninh là yếu tố hàng đầu mang lại sự an tâm cho cư dân.",
         link: "/services/bao-ve-khu-dan-cu" 
-    },
-    { 
-        title: "Bảo Vệ Khu Du Lịch, Resort", 
-        description: "An ninh yếu tố then chốt, mang lại trải nghiệm hoàn hảo cho khách.",
-        link: "/services/bao-ve-du-lich-resort" 
     },
     { 
         title: "Bảo Vệ Toà Nhà Văn Phòng", 
@@ -33,16 +23,6 @@ const allServicesData = [
         title: "Bảo Vệ Ngân Hàng, Tiệm Vàng", 
         description: "Đảm bảo an ninh nghiêm ngặt cho ngân hàng và tiệm vàng, bảo vệ tài sản và con người.",
         link: "/services/bao-ve-ngan-hang-tiem-vang" 
-    },
-    { 
-        title: "Bảo Vệ Kho Bãi, Nhà Xưởng", 
-        description: "Quản lý ra vào nghiêm ngặt, bảo vệ tài sản và máy móc tại kho bãi – nhà xưởng.",
-        link: "/services/bao-ve-kho-bai-nha-xuong" 
-    },
-    { 
-        title: "Bảo Vệ Trường Học", 
-        description: "Bảo vệ an toàn cho học sinh – giáo viên, tạo môi trường học tập lành mạnh.",
-        link: "/services/bao-ve-truong-hoc" 
     },
     { 
         title: "Bảo Vệ Mục Tiêu, Quán Ăn, Cafe", 
@@ -137,7 +117,7 @@ const Services: React.FC = () => {
             <div className="sidebar-block cta-block-services">
                 <h3 className="sidebar-title cta-title">Tư Vấn & Báo Giá</h3>
                 <p>Bạn cần giải pháp an ninh tối ưu cho dự án của mình?</p>
-                <a href="tel:0909773302" className="btn-cta-sidebar">GỌI NGAY: 0909.7733.02</a>
+                <a href="tel:0907 375 377" className="btn-cta-sidebar">GỌI NGAY: 0907 375 377</a>
                 <Link to="/contact" className="btn-cta-secondary">Yêu Cầu Báo Giá Chi Tiết</Link>
             </div>
           </div>

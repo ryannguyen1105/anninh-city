@@ -5,11 +5,11 @@ import './Footer.css';
 
 const Footer: React.FC = () => {
     
-    const COMPANY_ADDRESS = '38 Cộng Hoà, Phường Tân Sơn Nhất, Thành phố Hồ Chí Minh, Việt Nam';
-    const COMPANY_EMAIL = 'baove.anninhcity@gmail.com'; 
+    const COMPANY_ADDRESS = '855/18 Quang Trung, Phường An Hội Tây, Tp. Hồ Chí Minh';
+    const COMPANY_EMAIL = 'anninhkhaiphong@gmail.com'; 
     
     const MAP_EMBED_SRC = 
-        `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4194.698591347034!2d106.65738431089633!3d10.801012989304864!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31752930bfbb6657%3A0x2a871270fed27d69!2zMzggQ-G7mW5nIEjDsmEsIFBoxrDhu51uZyA0LCBUw6JuIELDrG5oLCBUaMOgbmggcGjhu5EgSOG7kyBDaMOtIE1pbmgsIFZp4buHdCBOYW0!5e1!3m2!1svi!2s!4v1764232415840!5m2!1svi!2s`;
+        `https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d591.8685946546358!2d106.64101488099807!3d10.843549824727829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3175299b3176d05d%3A0xc77424187a4fc9e!2zODU1IFF1YW5nIFRydW5nLCBBbiBI4buZaSBUw6J5LCBI4buTIENow60gTWluaCA3MjAwMDAsIFZp4buHdCBOYW0!5e1!3m2!1svi!2s!4v1793857647435!5m2!1svi!2s`;
     
     const GOOGLE_MAP_EMBED = 
         `<iframe 
@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
             allowFullScreen="" 
             loading="lazy" 
             referrerPolicy="no-referrer-when-downgrade"
-            title="Vị trí Công ty Anninh City"
+            title="Vị trí Công ty AN NINH KHẢI PHONG "
         ></iframe>`;
 
     const DIRECTIONS_LINK = 
@@ -30,13 +30,13 @@ const Footer: React.FC = () => {
         <footer className="main-footer">
             <div className="container footer-grid">
                 <div className="footer-col company-info">
-                    <h3>AN NINH CITY</h3>
+                    <h3>AN NINH KHẢI PHONG </h3>
                     <p>Chuyên cung cấp các giải pháp an ninh, bảo vệ chuyên nghiệp và thiết bị giám sát công nghệ cao.</p>
-                    <p>Mã số thuế: 0319232661</p>
-                    <div className="social-links">
+                    <p>Mã số thuế: 0318700067</p>
+                    {/* <div className="social-links">
                         <a href="https://www.facebook.com/profile.php?id=61583069896949&mibextid=wwXIfr&rdid=F5ZOiBZZEyxuDInb&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F17dEK2oCrU%2F%3Fmibextid%3DwwXIfr#" aria-label="Facebook">FB</a> | 
                         <a href="https://zalo.me" aria-label="Zalo">Zalo</a> 
-                    </div>
+                    </div> */}
                 </div>
                 <div className="footer-col quick-links">
                     <h4>Liên kết Nhanh</h4>
@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
                 <div className="footer-col contact-details">
                     <h4>Thông tin Liên hệ</h4>
                     <p>Địa chỉ: {COMPANY_ADDRESS}</p>
-                    <p>Hotline: <a href="tel:0909773302">0909773302 </a></p>
+                    <p>Hotline: <a href="tel:0907 375 377"> 0907 375 377 </a></p>
                     <p>Email: <a href={`mailto:${COMPANY_EMAIL}`}>{COMPANY_EMAIL}</a></p>
                 </div>
                 <div className="footer-col map-embed">
@@ -72,7 +72,7 @@ const Footer: React.FC = () => {
             </div>
 
             <div className="footer-bottom">
-                <p>© {new Date().getFullYear()} Anninh City. All rights reserved. Thiết kế bởi Anninh City IT.</p>
+                <p>© {new Date().getFullYear()} AN NINH KHẢI PHONG . All rights reserved. Thiết kế bởi AN NINH KHẢI PHONG  IT.</p>
             </div>
         </footer>
     );

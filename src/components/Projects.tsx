@@ -15,7 +15,7 @@ const Projects: React.FC = () => {
     <section className="projects-section">
       <div className="container">
         <h2 className="section-title">Dự án & Khách hàng Tiêu biểu</h2>
-        <p className="section-subtitle">Minh chứng cho chất lượng và uy tín của dịch vụ Anninh City.</p>
+        <p className="section-subtitle">Minh chứng cho chất lượng và uy tín của dịch vụ AN NINH KHẢI PHONG .</p>
         
         <div className="projects-grid">
           {projects.map((project, index) => (

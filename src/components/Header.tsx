@@ -5,7 +5,7 @@ import './Header.css';
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
-  const HOTLINE = '0909.7733.02';
+  const HOTLINE = '0907 375 377';
   const DESKTOP_BREAKPOINT = 1200; 
 
   const navItems = [
@@ -32,8 +32,8 @@ const Header = () => {
       <div className="header-container">
         <a href="/" className="logo-link">
           <img 
-            src="/favicon.png" 
-            alt="Anninh City Logo" 
+            src="/logo.png" 
+            alt="Anninh Khải Phong Logo" 
             className="site-logo" 
           />
         </a>

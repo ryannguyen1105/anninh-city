@@ -43,7 +43,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "4. An Ninh City – cung cấp dịch vụ bảo vệ sân bay chuyên nghiệp",
+                heading: "4. AN NINH KHẢI PHONG  – cung cấp dịch vụ bảo vệ sân bay chuyên nghiệp",
                 points: [
                     "Hiểu Rõ Đặc Thù An Ninh Hàng Không: Đào tạo chuyên sâu về tiêu chuẩn quốc tế và quy trình kiểm soát sân bay.",
                     "Đội Ngũ Chuyên Nghiệp, Tận Tâm: Tuyển chọn kỹ lưỡng, huấn luyện nghiêm ngặt về nghiệp vụ và ứng xử.",
@@ -68,7 +68,7 @@ const allServicesData = [
     { 
         slug: 'bao-ve-khu-dan-cu', 
         title: "Dịch Vụ Bảo Vệ Khu Dân Cư - Chung Cư Chuyên Nghiệp tại TP.HCM", 
-        summary: "An ninh là yếu tố hàng đầu mang lại sự an tâm tuyệt đối cho cư dân và bảo vệ tài sản cá nhân 24/7. An Ninh City tự hào cung cấp giải pháp an ninh toàn diện với đội ngũ nhân viên được đào tạo bài bản và công nghệ giám sát hiện đại.",
+        summary: "An ninh là yếu tố hàng đầu mang lại sự an tâm tuyệt đối cho cư dân và bảo vệ tài sản cá nhân 24/7. AN NINH KHẢI PHONG  tự hào cung cấp giải pháp an ninh toàn diện với đội ngũ nhân viên được đào tạo bài bản và công nghệ giám sát hiện đại.",
         image: "/images/DV2.png",
         contentSections: [
             {
@@ -94,7 +94,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "3. Lợi ích khi chọn dịch vụ An Ninh City",
+                heading: "3. Lợi ích khi chọn dịch vụ AN NINH KHẢI PHONG ",
                 points: [
                     "Đội ngũ bảo vệ chuyên nghiệp: Đào tạo bài bản về quan sát, xử lý tình huống và giao tiếp.",
                     "Tuần tra và giám sát 24/7: Kết hợp tuần tra liên tục với camera giám sát hiện đại.",
@@ -118,7 +118,7 @@ const allServicesData = [
                 heading: "5. Các câu hỏi thường gặp (FAQs)",
                 points: [
                     "Chi phí thuê dịch vụ là bao nhiêu? (Trung bình từ 13 - 16 triệu/tháng cho vị trí 24/7, có thể thấp hơn cho ca 12h).",
-                    "An Ninh City có hỗ trợ khu dân cư nhỏ không? (Có, cung cấp giải pháp tối ưu, tiết kiệm chi phí).",
+                    "AN NINH KHẢI PHONG  có hỗ trợ khu dân cư nhỏ không? (Có, cung cấp giải pháp tối ưu, tiết kiệm chi phí).",
                     "Nhân viên bảo vệ được đào tạo những kỹ năng gì? (Nghiệp vụ an ninh, sơ cứu, PCCC, giao tiếp, võ thuật, sử dụng công nghệ).",
                     "Có cung cấp camera giám sát không? (Có, cung cấp giải pháp tích hợp camera giám sát hiện đại tại các vị trí chiến lược).",
                     "Làm sao để đảm bảo an ninh ban đêm? (Tuần tra định kỳ, giám sát camera 24/7, kiểm soát ra vào nghiêm ngặt, đội cơ động phản ứng nhanh).",
@@ -129,7 +129,7 @@ const allServicesData = [
     { 
         slug: 'bao-ve-du-lich-resort', 
         title: "Dịch Vụ Bảo Vệ Khu Du Lịch, Resort Chuyên Nghiệp", 
-        summary: "An ninh là yếu tố then chốt để tạo nên trải nghiệm hoàn hảo cho du khách. An Ninh City tự hào mang đến giải pháp an ninh toàn diện, cam kết đảm bảo an toàn cho du khách, tài sản và danh tiếng của khu du lịch.",
+        summary: "An ninh là yếu tố then chốt để tạo nên trải nghiệm hoàn hảo cho du khách. AN NINH KHẢI PHONG  tự hào mang đến giải pháp an ninh toàn diện, cam kết đảm bảo an toàn cho du khách, tài sản và danh tiếng của khu du lịch.",
         image: "/images/DV3.png",
         contentSections: [
             {
@@ -156,7 +156,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "3. Lợi ích khi chọn dịch vụ An Ninh City",
+                heading: "3. Lợi ích khi chọn dịch vụ AN NINH KHẢI PHONG ",
                 points: [
                     "Đội ngũ bảo vệ chuyên nghiệp: Đào tạo kỹ lưỡng về an ninh, giao tiếp và xử lý tình huống.",
                     "Giám sát 24/7: Hệ thống tuần tra liên tục kết hợp với camera giám sát hiện đại.",
@@ -181,7 +181,7 @@ const allServicesData = [
                 heading: "5. Các câu hỏi thường gặp (FAQs)",
                 points: [
                     "Chi phí thuê dịch vụ là bao nhiêu? (Trung bình từ 13 - 18 triệu/tháng cho vị trí 24/7, có thể từ 9 triệu cho ca 12h).",
-                    "An Ninh City có hỗ trợ khu du lịch nhỏ không? (Có, cung cấp giải pháp tối ưu, tiết kiệm chi phí).",
+                    "AN NINH KHẢI PHONG có hỗ trợ khu du lịch nhỏ không? (Có, cung cấp giải pháp tối ưu, tiết kiệm chi phí).",
                     "Nhân viên bảo vệ được đào tạo những kỹ năng gì? (Nghiệp vụ an ninh, giao tiếp, sơ cứu, PCCC, võ thuật).",
                     "Phụ kiện nhân viên bảo vệ khu du lịch gồm những gì? (Đồng phục, bộ đàm, đèn pin, dùi cui, sổ tay, thẻ nhân viên).",
                 ],
@@ -191,7 +191,7 @@ const allServicesData = [
     { 
         slug: 'bao-ve-toa-nha-van-phong', 
         title: "Dịch Vụ Bảo Vệ Tòa Nhà Văn Phòng: Kiểm Soát An Ninh Chặt Chẽ 24/7", 
-        summary: "Tòa nhà văn phòng là nơi tập trung nhân sự và tài sản của nhiều doanh nghiệp, đòi hỏi tiêu chuẩn an ninh nghiêm ngặt. Dịch vụ bảo vệ Tòa Nhà Văn Phòng của An Ninh City cung cấp giải pháp an ninh chuyên nghiệp, thân thiện, đảm bảo môi trường làm việc an toàn và văn minh.",
+        summary: "Tòa nhà văn phòng là nơi tập trung nhân sự và tài sản của nhiều doanh nghiệp, đòi hỏi tiêu chuẩn an ninh nghiêm ngặt. Dịch vụ bảo vệ Tòa Nhà Văn Phòng của AN NINH KHẢI PHONG  cung cấp giải pháp an ninh chuyên nghiệp, thân thiện, đảm bảo môi trường làm việc an toàn và văn minh.",
         image: "/images/DV4.png",
         contentSections: [
             {
@@ -214,7 +214,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "3. Yêu cầu tiêu chuẩn đối với nhân viên An Ninh City",
+                heading: "3. Yêu cầu tiêu chuẩn đối với nhân viên AN NINH KHẢI PHONG ",
                 points: [
                     "Nghiệp vụ chuyên nghiệp: Thành thạo nghiệp vụ bảo vệ, sơ cứu, PCCC, và sử dụng công cụ hỗ trợ.",
                     "Kỹ năng giao tiếp: Thái độ lịch sự, chuyên nghiệp, khả năng giao tiếp ngoại ngữ cơ bản (tại các tòa nhà quốc tế).",
@@ -223,7 +223,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "4. Giải pháp An Ninh City cho Tòa nhà Văn phòng",
+                heading: "4. Giải pháp AN NINH KHẢI PHONG  cho Tòa nhà Văn phòng",
                 points: [
                     "Phân tích rủi ro chi tiết: Đánh giá đặc thù của tòa nhà (số lượng tầng, công năng, khách thuê) để thiết lập phương án tối ưu.",
                     "Tích hợp công nghệ: Kết hợp lực lượng bảo vệ với hệ thống kiểm soát ra vào điện tử và hệ thống PCCC tiên tiến.",
@@ -236,7 +236,7 @@ const allServicesData = [
     { 
         slug: 'bao-ve-nha-hang-khach-san', 
         title: "Dịch Vụ Bảo Vệ Nhà Hàng, Khách Sạn: Đảm Bảo An Toàn & Chất Lượng Phục Vụ", 
-        summary: "Khách sạn, nhà hàng đòi hỏi sự kết hợp giữa an ninh nghiêm ngặt và dịch vụ khách hàng chuyên nghiệp. An Ninh City cung cấp giải pháp bảo vệ tối ưu, giúp bảo vệ tài sản, giữ vững an ninh và nâng cao trải nghiệm, sự hài lòng của khách hàng.", 
+        summary: "Khách sạn, nhà hàng đòi hỏi sự kết hợp giữa an ninh nghiêm ngặt và dịch vụ khách hàng chuyên nghiệp. AAN NINH KHẢI PHONG  cung cấp giải pháp bảo vệ tối ưu, giúp bảo vệ tài sản, giữ vững an ninh và nâng cao trải nghiệm, sự hài lòng của khách hàng.", 
         image: "/images/DV5.png", 
         contentSections: [
             {
@@ -259,7 +259,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "3. Tiêu chuẩn nhân viên An Ninh City cho dịch vụ Hospitality",
+                heading: "3. Tiêu chuẩn nhân viên AN NINH KHẢI PHONG  cho dịch vụ Hospitality",
                 points: [
                     "Kỹ năng giao tiếp xuất sắc: Biết cách ứng xử nhã nhặn, chuyên nghiệp, hỗ trợ khách hàng một cách tối đa.",
                     "Nắm vững quy trình nghiệp vụ: Đặc biệt là kỹ năng PCCC, sơ cứu và xử lý xung đột nội bộ.",
@@ -268,7 +268,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "4. Lợi ích khi hợp tác với An Ninh City",
+                heading: "4. Lợi ích khi hợp tác với AN NINH KHẢI PHONG ",
                 points: [
                     "Tăng cường an ninh mà không ảnh hưởng đến trải nghiệm: Nhân viên có tác phong lịch sự, hòa nhập với môi trường dịch vụ cao cấp.",
                     "Giảm thiểu rủi ro pháp lý: Đảm bảo an toàn cháy nổ, an toàn lao động và tuân thủ các quy định an ninh.",
@@ -281,7 +281,7 @@ const allServicesData = [
     { 
         slug: 'bao-ve-ngan-hang-tiem-vang', 
         title: "Dịch Vụ Bảo Vệ Ngân Hàng, Tiệm Vàng – Giải Pháp An Ninh Tuyệt Đối 24/7", 
-        summary: "Tiệm vàng, ngân hàng là mục tiêu có rủi ro an ninh cao nhất do giá trị tài sản lớn. Dịch vụ bảo vệ chuyên nghiệp của An Ninh City được thiết kế toàn diện với các biện pháp phòng ngừa, giám sát và phản ứng nhanh nhằm đảm bảo an ninh tuyệt đối cho tài sản, nhân viên và khách hàng.", 
+        summary: "Tiệm vàng, ngân hàng là mục tiêu có rủi ro an ninh cao nhất do giá trị tài sản lớn. Dịch vụ bảo vệ chuyên nghiệp của AN NINH KHẢI PHONG  được thiết kế toàn diện với các biện pháp phòng ngừa, giám sát và phản ứng nhanh nhằm đảm bảo an ninh tuyệt đối cho tài sản, nhân viên và khách hàng.", 
         image: "/images/DV6.png", 
         contentSections: [
             {
@@ -327,7 +327,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "5. An Ninh City – Đơn vị cung cấp dịch vụ bảo vệ tiệm vàng uy tín",
+                heading: "5. AN NINH KHẢI PHONG  – Đơn vị cung cấp dịch vụ bảo vệ tiệm vàng uy tín",
                 points: [
                     "Đội ngũ bảo vệ chuyên nghiệp và giàu kinh nghiệm: Đào tạo bài bản, tập trung vào bảo vệ tài sản có giá trị cao.",
                     "Giải pháp an ninh toàn diện: Cung cấp nhân viên túc trực, camera giám sát hiện đại, báo động an ninh.",
@@ -341,7 +341,7 @@ const allServicesData = [
     { 
         slug: 'bao-ve-kho-bai-nha-xuong', 
         title: "Dịch Vụ Bảo Vệ Kho Bãi, Nhà Xưởng: Kiểm Soát Tài Sản và Chống Thất Thoát", 
-        summary: "Kho bãi, nhà xưởng thường chứa hàng hóa, nguyên vật liệu và máy móc có giá trị lớn, đối mặt với nguy cơ trộm cắp nội bộ và cháy nổ cao. An Ninh City cung cấp giải pháp an ninh chuyên biệt, tập trung vào kiểm soát ra vào, giám sát nội bộ và phòng chống PCCC.", 
+        summary: "Kho bãi, nhà xưởng thường chứa hàng hóa, nguyên vật liệu và máy móc có giá trị lớn, đối mặt với nguy cơ trộm cắp nội bộ và cháy nổ cao. AN NINH KHẢI PHONG  cung cấp giải pháp an ninh chuyên biệt, tập trung vào kiểm soát ra vào, giám sát nội bộ và phòng chống PCCC.", 
         image: "/images/DV7.png", 
         contentSections: [
             {
@@ -364,7 +364,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "3. Quy trình Kiểm soát Xuất/Nhập hàng của An Ninh City",
+                heading: "3. Quy trình Kiểm soát Xuất/Nhập hàng của AN NINH KHẢI PHONG ",
                 points: [
                     "Tiếp nhận lệnh/Phiếu xuất nhập hàng: Kiểm tra tính hợp lệ và chữ ký của người có thẩm quyền.",
                     "Kiểm tra xe và hàng hóa: Đối chiếu số lượng, chủng loại, tình trạng hàng hóa với chứng từ.",
@@ -374,7 +374,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "4. Ưu điểm dịch vụ của An Ninh City",
+                heading: "4. Ưu điểm dịch vụ của AN NINH KHẢI PHONG ",
                 points: [
                     "Đội ngũ chuyên trách về công nghiệp: Nhân viên có kinh nghiệm trong môi trường sản xuất, hiểu về quy trình an toàn lao động.",
                     "Tập trung chống thất thoát: Kỹ năng kiểm soát giấy tờ và giám sát xe ra vào được đào tạo chuyên sâu.",
@@ -423,7 +423,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "4. An Ninh City – Điểm khác biệt của dịch vụ tại TP.HCM",
+                heading: "4. AN NINH KHẢI PHONG  – Điểm khác biệt của dịch vụ tại TP.HCM",
                 points: [
                     "Cung cấp lực lượng bảo vệ chuyên nghiệp cho mọi cấp trường học (mầm non, đại học).",
                     "Kiểm soát an ninh khuôn viên 24/7, đảm bảo duy trì kỷ luật.",
@@ -438,7 +438,7 @@ const allServicesData = [
     { 
         slug: 'bao-ve-quan-an-cafe', 
         title: "Dịch Vụ Bảo Vệ Mục Tiêu, Quán Ăn, Cafe: Thân Thiện & An Toàn", 
-        summary: "Bảo vệ các mục tiêu dịch vụ như quán ăn, cafe, cửa hàng bán lẻ đòi hỏi sự cân bằng giữa an ninh và sự thân thiện. An Ninh City cung cấp đội ngũ bảo vệ có kỹ năng giao tiếp tốt, giúp duy trì trật tự, bảo vệ tài sản và mang lại trải nghiệm thoải mái cho khách hàng.", 
+        summary: "Bảo vệ các mục tiêu dịch vụ như quán ăn, cafe, cửa hàng bán lẻ đòi hỏi sự cân bằng giữa an ninh và sự thân thiện. AN NINH KHẢI PHONG  cung cấp đội ngũ bảo vệ có kỹ năng giao tiếp tốt, giúp duy trì trật tự, bảo vệ tài sản và mang lại trải nghiệm thoải mái cho khách hàng.", 
         image: "/images/DV9.png", 
         contentSections: [
             {
@@ -451,7 +451,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "2. Nhiệm vụ chính của nhân viên bảo vệ An Ninh City",
+                heading: "2. Nhiệm vụ chính của nhân viên bảo vệ AN NINH KHẢI PHONG ",
                 points: [
                     "Quản lý phương tiện và tài sản: Hướng dẫn khách đỗ xe, trông giữ xe cẩn thận và phát thẻ xe (nếu cần).",
                     "Đảm bảo an ninh khu vực: Tuần tra khu vực quán/cafe, đặc biệt là khu vực thu ngân và nơi khách ngồi.",
@@ -470,7 +470,7 @@ const allServicesData = [
                 ],
             },
             {
-                heading: "4. Lợi ích An Ninh City mang lại",
+                heading: "4. Lợi ích AN NINH KHẢI PHONG  mang lại",
                 points: [
                     "Tạo cảm giác an tâm cho khách hàng: Khách hàng sẽ thoải mái hơn khi biết phương tiện và tài sản của họ được bảo vệ.",
                     "Tối ưu hóa không gian đỗ xe: Sắp xếp khoa học, tận dụng tối đa không gian bãi đỗ xe.",
@@ -521,7 +521,7 @@ const ServiceDetail: React.FC = () => {
                     <div className="detail-cta">
                         <p>Liên hệ ngay để nhận báo giá chi tiết và tư vấn giải pháp an ninh tối ưu nhất:</p>
                         <a href="tel:0931870883" className="cta-primary-orange">
-                            GỌI NGAY: 0909773302
+                            GỌI NGAY: 0907 375 377
                         </a>
                     </div>
                 </div>
@@ -529,8 +529,8 @@ const ServiceDetail: React.FC = () => {
                     <div className="sidebar-block contact-promo">
                         <h3 className="sidebar-title">Liên Hệ Báo Giá</h3>
                         <p>Chúng tôi sẵn sàng phục vụ 24/7</p>
-                        <a href="tel:0931870883" className="sidebar-hotline"> 0909773302</a>
-                        <p>Email: baove.anninhcity@gmail.com</p>
+                        <a href="tel:0907 375 377" className="sidebar-hotline"> 0907 375 377</a>
+                        <p>Email: anninhkhaiphong@gmail.com</p>
                     </div>
                     <div className="sidebar-block category-block">
                         <h3 className="sidebar-title">Các Dịch Vụ Khác</h3>

@@ -46,7 +46,7 @@ const blogData = [
     { 
         id: 5, 
         title: "Gặp gỡ khách hàng tiêu biểu: Công ty Xây dựng Tầm Cao Mới", 
-        summary: "Phỏng vấn và chia sẻ kinh nghiệm hợp tác với một trong những khách hàng lớn của An Ninh City trong lĩnh vực xây dựng.", 
+        summary: "Phỏng vấn và chia sẻ kinh nghiệm hợp tác với một trong những khách hàng lớn của AN NINH KHẢI PHONG  trong lĩnh vực xây dựng.", 
         image: "/images/TT5.png",
         slug: "khach-hang-xay-dung",
         category: "Khách Hàng",
@@ -79,8 +79,8 @@ const VideoCTABlock: React.FC = () => {
                 <span className="placeholder-icon">▶️</span>
             </div>
             <p className="video-caption">
-                Xem các video phòng chống trộm cắp, mẹo an ninh hữu ích từ chuyên gia của An Ninh City.
-                <a href="https://www.youtube.com/@AnNinhCity" target="_blank" rel="noopener noreferrer" className="youtube-link">
+                Xem các video phòng chống trộm cắp, mẹo an ninh hữu ích từ chuyên gia của AN NINH KHẢI PHONG.
+                <a href="https://www.youtube.com/@AnNinhKhaiPhong" target="_blank" rel="noopener noreferrer" className="youtube-link">
                     Truy cập kênh YouTube của chúng tôi »
                 </a>
             </p>

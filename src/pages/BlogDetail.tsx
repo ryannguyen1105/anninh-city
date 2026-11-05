@@ -12,12 +12,12 @@ const blogDetailData = [
         date: "20-11-2025",
         image: "/images/TT1.png",
         fullContent: `
-            <p><strong>Công ty Bảo vệ An Ninh City</strong> tự hào là một trong những đơn vị dẫn đầu trong lĩnh vực cung cấp giải pháp an ninh toàn diện tại khu vực phía Nam. Với tốc độ phát triển không ngừng, chúng tôi thông báo mở đợt **tuyển dụng lớn** cho các vị trí nhân viên bảo vệ chuyên nghiệp tại TP.HCM. Đây không chỉ là một công việc, mà là cơ hội để bạn xây dựng sự nghiệp bền vững trong một môi trường làm việc đầy tính kỷ luật và nhân văn.</p>
+            <p><strong>Công ty Bảo vệ AN NINH KHẢI PHONG </strong> tự hào là một trong những đơn vị dẫn đầu trong lĩnh vực cung cấp giải pháp an ninh toàn diện tại khu vực phía Nam. Với tốc độ phát triển không ngừng, chúng tôi thông báo mở đợt **tuyển dụng lớn** cho các vị trí nhân viên bảo vệ chuyên nghiệp tại TP.HCM. Đây không chỉ là một công việc, mà là cơ hội để bạn xây dựng sự nghiệp bền vững trong một môi trường làm việc đầy tính kỷ luật và nhân văn.</p>
             
             <p>Chúng tôi cam kết xây dựng một môi trường làm việc không chỉ chuyên nghiệp mà còn đề cao sự gắn kết, đào tạo liên tục và cơ hội phát triển nghề nghiệp lâu dài cho mọi nhân viên, đặc biệt là những cá nhân có tham vọng thăng tiến lên các vị trí quản lý.</p>
 
             <h2>1. Các vị trí đang tuyển dụng và Mô tả công việc chi tiết</h2>
-            <p>An Ninh City đang tìm kiếm những ứng viên tài năng và tâm huyết cho nhiều vị trí khác nhau, phù hợp với mọi kinh nghiệm và sở thích làm việc:</p>
+            <p>AN NINH KHẢI PHONG  đang tìm kiếm những ứng viên tài năng và tâm huyết cho nhiều vị trí khác nhau, phù hợp với mọi kinh nghiệm và sở thích làm việc:</p>
             
             <h3>1.1. Nhân viên Bảo vệ Mục tiêu cố định</h3>
             <p>Đây là lực lượng nòng cốt, đảm bảo an ninh cho các tài sản có giá trị cao và môi trường làm việc của khách hàng.</p>
@@ -60,7 +60,7 @@ const blogDetailData = [
             </ul>
 
             <h2>3. Quyền lợi và chế độ đãi ngộ vượt trội</h2>
-            <p>An Ninh City cam kết mang lại mức thu nhập và phúc lợi hấp dẫn, đảm bảo sự ổn định cho nhân viên:</p>
+            <p>AN NINH KHẢI PHONG  cam kết mang lại mức thu nhập và phúc lợi hấp dẫn, đảm bảo sự ổn định cho nhân viên:</p>
             
             <h3>3.1. Thu nhập và Bảo hiểm</h3>
             <ul>
@@ -77,7 +77,7 @@ const blogDetailData = [
                 <li>Cung cấp đồng phục, trang thiết bị làm việc hiện đại miễn phí.</li>
             </ul>
 
-            <p><strong>Cơ hội của bạn đang ở đây!</strong> Hãy nộp hồ sơ ngay để không bỏ lỡ cơ hội làm việc tại An Ninh City, nơi sự chuyên nghiệp và cơ hội thăng tiến luôn song hành cùng bạn. Vui lòng liên hệ trực tiếp phòng Nhân sự của An Ninh City qua số điện thoại <strong>0909.7733.02</strong> hoặc nộp hồ sơ trực tiếp tại văn phòng công ty trong giờ hành chính.</p>
+            <p><strong>Cơ hội của bạn đang ở đây!</strong> Hãy nộp hồ sơ ngay để không bỏ lỡ cơ hội làm việc tại AN NINH KHẢI PHONG , nơi sự chuyên nghiệp và cơ hội thăng tiến luôn song hành cùng bạn. Vui lòng liên hệ trực tiếp phòng Nhân sự của AN NINH KHẢI PHONG  qua số điện thoại <strong> 0907 375 377</strong> hoặc nộp hồ sơ trực tiếp tại văn phòng công ty trong giờ hành chính.</p>
         `
     },
     { 
@@ -88,7 +88,7 @@ const blogDetailData = [
         date: "15-11-2025",
         image: "/images/TT2.png",
         fullContent: `
-            <p>Trong bối cảnh an ninh ngày càng phức tạp, việc lựa chọn một **công ty bảo vệ uy tín** là quyết định chiến lược, ảnh hưởng trực tiếp đến sự an toàn tài sản, thông tin kinh doanh và sự ổn định hoạt động của doanh nghiệp. Một quyết định sai lầm có thể dẫn đến những rủi ro pháp lý và tổn thất tài chính không đáng có. Dưới đây là 5 bí quyết chi tiết được các chuyên gia hàng đầu của An Ninh City tổng hợp, giúp bạn đánh giá và đưa ra lựa chọn sáng suốt.</p>
+            <p>Trong bối cảnh an ninh ngày càng phức tạp, việc lựa chọn một **công ty bảo vệ uy tín** là quyết định chiến lược, ảnh hưởng trực tiếp đến sự an toàn tài sản, thông tin kinh doanh và sự ổn định hoạt động của doanh nghiệp. Một quyết định sai lầm có thể dẫn đến những rủi ro pháp lý và tổn thất tài chính không đáng có. Dưới đây là 5 bí quyết chi tiết được các chuyên gia hàng đầu của AN NINH KHẢI PHONG  tổng hợp, giúp bạn đánh giá và đưa ra lựa chọn sáng suốt.</p>
 
             <h2>1. Kiểm tra tính hợp pháp và Năng lực pháp lý</h2>
             <p>Trước khi xem xét bất kỳ yếu tố nào khác, bạn phải xác minh tính hợp pháp của công ty bảo vệ. Yếu tố này bao gồm:</p>
@@ -253,7 +253,7 @@ const RelatedPostsSidebar: React.FC<{ currentSlug: string }> = ({ currentSlug })
              <div className="sidebar-block cta-block">
                 <h3 className="sidebar-title cta-title">Cần tư vấn An Ninh?</h3>
                 <p>Liên hệ ngay để nhận báo giá chi tiết và tư vấn giải pháp tối ưu.</p>
-                <a href="tel:0909773302" className="btn-cta-sidebar">0909.7733.02</a>
+                <a href="tel:0907 375 377" className="btn-cta-sidebar"> 0907 375 377</a>
             </div>
         </div>
     );
@@ -286,7 +286,7 @@ const BlogDetail: React.FC = () => {
                         <h1 className="post-title-detail">{post!.title}</h1>
                         <div className="post-meta-detail">
                             <span>Ngày đăng: {post!.date}</span>
-                            <span>Tác giả: An Ninh City</span>
+                            <span>Tác giả: AN NINH KHẢI PHONG </span>
                         </div>
                         
                         <img src={post!.image} alt={post!.title} className="featured-image-detail" />
