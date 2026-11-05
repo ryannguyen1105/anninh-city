@@ -1,10 +1,11 @@
 // src/App.tsx
 
 import React from 'react';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+// 1. Thay BrowserRouter bằng HashRouter
+import { HashRouter as Router, Routes, Route } from 'react-router-dom'; 
 import Header from './components/Header'; 
 import Footer from './components/Footer'; 
-import FloatingContact from './components/FloatingContact'; // 1. Import component nút liên hệ
+import FloatingContact from './components/FloatingContact'; 
 import Home from './pages/Home';           
 import About from './pages/About';         
 import Services from './pages/Services';   
@@ -33,8 +34,6 @@ function App() {
         </main>
 
         <Footer /> 
-
-        {/* 2. Đặt FloatingContact ở đây để hiển thị cố định xuyên suốt toàn bộ website */}
         <FloatingContact />
       </div>
     </Router>
