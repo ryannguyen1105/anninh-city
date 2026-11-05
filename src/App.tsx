@@ -1,7 +1,6 @@
 // src/App.tsx
 
 import React from 'react';
-// 1. Thay BrowserRouter bằng HashRouter
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'; 
 import Header from './components/Header'; 
 import Footer from './components/Footer'; 

@@ -1,11 +1,9 @@
 // src/pages/Home.tsx
 
 import React from "react";
+import { Link } from "react-router-dom";
 import "./Home.css";
 import Services from "../components/Services";
-import ContactStrip from "../components/ContactStrip";
-import AboutDetail from "../components/AboutDetail";
-import Projects from "../components/Projects";
 import ImageSlider from "../components/ImageSlider";
 
 const HERO_BANNER_URL = "/images/BAOVE1.png";
@@ -36,12 +34,12 @@ const Home: React.FC = () => {
               và báo giá!
             </p>
             <div className="hero-actions">
-              <a href="/contact" className="cta-primary">
+              <Link to="/contact" className="cta-primary">
                 Yêu cầu Báo giá
-              </a>
-              <a href="/services" className="cta-secondary-white">
+              </Link>
+              <Link to="/services" className="cta-secondary-white">
                 Xem Dịch vụ
-              </a>
+              </Link>
             </div>
           </div>
           <div className="hero-image-container">
