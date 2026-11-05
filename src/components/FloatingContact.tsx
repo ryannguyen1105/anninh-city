@@ -17,13 +17,13 @@ const FloatingContact = () => {
 
       {/* Nút Gọi Hotline */}
       <a 
-        href="tel:0907375377" 
+        href="tel:0902791785" 
         className="contact-icon phone-icon"
         title="Gọi ngay"
       >
         <div className="hotline-badge">
           <span className="hotline-title">Hotline (24/7)</span>
-          <span className="hotline-number">0907 375 377</span>
+          <span className="hotline-number">0902 791 785</span>
         </div>
         <div className="phone-circle">
           <i className="fa fa-phone">📞</i>
