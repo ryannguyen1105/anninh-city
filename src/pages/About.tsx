@@ -125,7 +125,7 @@ const About: React.FC = () => {
             </div>
             <div className="commitment-image-column">
                 <img 
-                    src="/images/BAOVE.png" 
+                    src="/images/BAOVE2.png" 
                     alt="Hình ảnh đội ngũ bảo vệ chuyên nghiệp" 
                     className="commitment-main-image" 
                 />
